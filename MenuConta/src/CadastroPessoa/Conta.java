@@ -1,9 +1,8 @@
-package CadastroPessoa
+package CadastroPessoa;
 
 public class Conta {
     private int numero;
     private double saldo;
-
     private Conta (int nunmero) {
         this.numero = numero;
         this.saldo = 0;
